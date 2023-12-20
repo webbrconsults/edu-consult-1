@@ -2,8 +2,8 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "Navigating **futures**, unlocking **success**"
+  text: "Welcome to CollegesKart – your tailored guide through the maze of educational choices. We're here to personalise your journey, from finding the right program to easing your accommodation search. Let's shape your success story, one step at a time. Welcome home!"
 
   buttonPrimary:
     label: "How we work"
