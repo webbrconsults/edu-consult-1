@@ -1,9 +1,12 @@
 <section class="section testimonials py-5">
   <div class="container">
-    <div class="row pb-5">
-      <div class="col-12">
+    <div class="row justify-content-center pb-5">
+      <div class="col-12 col-xl-6">
         {{ with .content.title }}
           <h3 class="fs-1 fw-bold text-center text-primary pb-3">{{ . }}</h3>
+        {{ end }}
+        {{ with .content.text }}
+          <p class="text-black-61 text-center pb-3">{{ . }}</p>
         {{ end }}
       </div>
     </div>
@@ -26,7 +29,7 @@
     </div>
     <div class="row">
       {{ range $i, $e := .content.list }}
-        <div class="col-12 col-xl-4">
+        <div class="col-12 col-xl-6">
           <div class="card border-0 border-radius-34 p-4">
             {{ with $e.image }}
               {{ partial "utilities/image-fluid.html" $e.image }}
