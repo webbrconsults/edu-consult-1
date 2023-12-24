@@ -1,25 +1,23 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "About us"
+date = "2023-12-23"
+aliases = ["about-us", "about-collegeskart", "contact"]
+author = "CollegesKart"
+type = "about"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## Mission Statement
 
-Hugo makes use of a variety of open source projects including:
+Our mission is clear and unwavering:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+> *"To empower and guide students on their educational journey by providing personalized resources, expert guidance, and innovative tools, ensuring every individual finds their perfect academic path."*     
+&nbsp;
+---
+&nbsp;
+## Vision Statement
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Our vision is grand yet achievable:
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+> *"To be the leading beacon of personalized education guidance, inspiring and enabling students worldwide to achieve their academic aspirations, fostering a brighter future for all."*
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Thank you for being a part of our educational community. Together, we can build a future where every student's academic dreams become a reality.

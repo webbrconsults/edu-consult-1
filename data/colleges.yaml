@@ -1,0 +1,216 @@
+enabled: true
+id: "colleges"
+
+Title: "Colleges list"
+
+content:
+  collegesList:
+  - name: Shanti Business School
+    website: https://www.shantibschool.edu.in/
+    city: Ahmedabad
+    state: Gujarat
+
+  - name: IIBS
+    website: https://admissions.iibs.edu.in/?utm_source=GetMyUni&utm_medium=KA01&utm_campaign=IIBS24&gad_source=1&gclid=CjwKCAiAjrarBhAWEiwA2qWdCNaS5VmR_niyUmLl1MSnYtJYfrUY74oU9IKP0SB3EsLAF-0kYEsuaRoCCmYQAvD_BwE
+    city: Bangalore
+    state: Karnataka
+
+  - name: Alliance University
+    website: https://www.alliance.edu.in/postgraduate_programs/alliance-mba-2024/?utm_source=unipro&utm_medium=search&utm_campaign=unipro_alliance_mba_brand_search_exact_2023&utm_adgroup={adgroup_name}&utm_location=9300836&utm_keyword=alliance%20university&utm_device=c&utm_devicemodel=&utm_placement=&utm_adposition=&utm_target=&utm_network=g&utm_gclid=CjwKCAiAjrarBhAWEiwA2qWdCA0sRvEWJyA8ArswsN3ydpSkDVan1FLbOl_kU7zjqWfjMQ_pnCNgwRoCMWsQAvD_BwE&gad_source=1&gclid=CjwKCAiAjrarBhAWEiwA2qWdCA0sRvEWJyA8ArswsN3ydpSkDVan1FLbOl_kU7zjqWfjMQ_pnCNgwRoCMWsQAvD_BwE
+    city: Bengaluru
+    state: Karnataka
+
+  - name: GIBS Business School
+    website: https://www.gibs.edu.in/
+    city: Bengaluru
+    state: Karnataka
+
+  - name: Doon Business School
+    website: https://www.doonbusinessschool.com/
+    city: Dehradun
+    state: Uttarakhand
+
+  - name: UPES
+    website: https://admissions.upes.ac.in/courses/upes-brand.aspx?utm_source=adwords_s&utm_medium=cpc&utm_campaign=PM_Brand_GSN_LG_2024&source=&medium=&campaign=&term=upes%20dehradun&device=c&adposition=&creative=674025403569&loc_physical_ms=9300836&adgroup=152234823014&placement=&target=&utm_keywords=20549046906&gad_source=1&gclid=CjwKCAiAjrarBhAWEiwA2qWdCDdwt5DhfSRKUtLikCJP3xYplGTwIi3cgwIzzSCfCblgxE3Vr9K2LxoC2-AQAvD_BwE
+    city: Dehradun
+    state: Uttarakhand
+
+  - name: Fostima Business School
+    website: https://www.fostiima.org/
+    city: Delhi
+    state: Delhi
+
+  - name: IILM
+    website: https://iilm.edu.in/
+    city: Delhi
+    state: Delhi
+
+  - name: NDIM
+    website: https://www.ndimdelhi.org/
+    city: Delhi
+    state: Delhi
+
+  - name: Lloyd Business School
+    website: https://www.lloydbusinessschool.edu.in/
+    city: Greater Noida
+    state: UP
+
+  - name: G.L Bajaj
+    website: https://www.glbimr.org/
+    city: Greater Noida
+    state: UP
+
+  - name: GNIOT
+    website: https://www.gniotgroup.edu.in/
+    city: Greater Noida
+    state: UP
+
+  - name: IBI
+    website: https://www.ibusinessinstitute.org/
+    city: Greater Noida
+    state: UP
+
+  - name: IILM
+    website: https://iilm.ac.in/
+    city: Greater Noida
+    state: UP
+
+  - name: Mangal May
+    website: https://www.mangalmay.org/
+    city: Greater Noida
+    state: UP
+
+  - name: NIET
+    website: https://www.niet.co.in/
+    city: Greater Noida
+    state: UP
+
+  - name: Sparsh Global Business School
+    website: https://www.sparshgbs.in/
+    city: Greater Noida
+    state: UP
+
+  - name: G.D.Goienka
+    website: https://www.gdgoenkauniversity.com/?utm_source=GoogleAds&utm_medium=Search&utm_campaign=Brand&campaignid=20800071093&adgroupid=156781019435&keyword=goenka&device=c&gad_source=1&gclid=CjwKCAiAjrarBhAWEiwA2qWdCPitlpY9w-ut0Op8R9XElAmwjYBokztbsX2F7bMoR60z9hsPCZ-vuxoCacEQAvD_BwE
+    city: Gurgaon
+    state: Haryana
+
+  - name: IILM
+    website: https://iilm.edu/
+    city: Gurgaon
+    state: Haryana
+
+  - name: J.K. Business School
+    website: https://jkbschool.org/
+    city: Gurgaon
+    state: Haryana
+
+  - name: JK Business School
+    website: https://jkbschool.org/
+    city: Gurugram
+    state: Haryana
+
+  - name: SCHOOL OF INNOVATION AND MANAGEMENT
+    website: https://soim.edu.in/
+    city: Hyderabad
+    state: Telangana
+
+  - name: Jaipuria Business School
+    website: https://jsb.jaipuria.edu.in/
+    city: Indirapuram, Ghaziabad
+    state: UP
+
+  - name: Jaipuria
+    website: https://www.jaipuria.ac.in/admission/pgdm-mba-2024/?utm_source=Adwords&utm_medium=Adwords_Jaipuria&utm_campaign=Indore_Exact_Keywords&gad_source=1&gclid=CjwKCAiAjrarBhAWEiwA2qWdCMgeZFHn4NlTNNT0KH7cmbS_8vR7BGtnSZQguAR63newzpycacclihoCRLUQAvD_BwE
+    city: Indore
+    state: MP
+
+  - name: Jaipuria
+    website: https://www.jaipuria.ac.in/Jaipur/
+    city: Jaipur
+    state: Rajasthan
+
+  - name: Bml Munjal University
+    website: https://www.bmu.edu.in/
+    city: Kapriwas
+    state: Haryana
+
+  - name: Jaipuria
+    website: https://www.jaipuria.ac.in/lucknow/
+    city: Lucknow
+    state: UP
+
+  - name: ITS
+    website: https://pg.its.edu.in/
+    city: Mohan Nagar, Ghaziabad
+    state: UP
+
+  - name: Pimpri Chinchwad University
+    website: https://pcu.edu.in/
+    city: Mohitewadi
+    state: Maharashtra
+
+  - name: ITM
+    website: https://www.itm.edu/pgdm-post-graduation-diploma-management/
+    city: Navi Mumbai
+    state: Maharashtra
+
+  - name: Fortune Institute of International Business
+    website: https://www.fiib.edu.in/
+    city: New Delhi
+    state: New Delhi
+
+  - name: Asain Businees School
+    website: https://abs.edu.in/
+    city: Noida
+    state: UP
+
+  - name: Jaipuria
+    website: https://www.jaipuria.ac.in/noida/
+    city: Noida
+    state: UP
+
+  - name: ASM
+    website: https://www.asmgroup.edu.in/
+
+  - name: DY Patil (DPU)
+    website: https://dpu.edu.in/
+    city: Pune
+    state: Maharashtra
+
+  - name: Lexicon
+    website: https://www.lexiconmile.com/
+    city: Pune
+    state: Maharashtra
+
+  - name: PIBM
+    website: https://www.pibm.in/
+    city: Pune
+    state: Maharashtra
+
+  - name: RIIM
+    website: https://riimpune.com/
+    city: Pune
+    state: Maharashtra
+
+  - name: SMS Group of Institutions
+    website: https://ismspune.in/
+    city: Pune
+    state: Maharashtra
+
+  - name: JIMS
+    website: https://www.jimsrohini.org/MBA-PGDM-Admissions/?utm_source=google&utm_medium=CPC&utm_campaign=Selective-cities_jims-sect5&gad_source=1&gclid=Cj0KCQiAgqGrBhDtARIsAM5s0_kRuXHCSEasIFWxMrxjIA_QryrvQjcXClWflpHIgfTIY1m8CMX655MaAm_NEALw_wcB
+    city: Rohini
+    state: Delhi
+
+  - name: Quantum School of Business
+    website: https://quantumuniversity.edu.in/school-of-business
+    city: Roorkee
+    state: Uttarakhand
+
+  - name: UBS
+    city: Mumbai
+    state: Maharashtra
+
+  - name: UBS
+    city: Others
