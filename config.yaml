@@ -1,3 +1,8 @@
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 baseURL: "https://master--shimmering-elf-307184.netlify.app"
 theme: "up-business-theme"
 languageCode: "en-us"
