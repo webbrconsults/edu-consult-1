@@ -7,7 +7,7 @@
         {{ end }}
       </div>
     </div>
-    <div class="row justify-content-center">
+    <!-- <div class="row justify-content-center">
       <div class="col-12 col-xl-6 text-center">
         {{ with .content.image }}{{ partial "utilities/image-fluid.html" . }}{{ end }}
       </div>
@@ -18,6 +18,29 @@
           <a class="btn btn-outline-primary px-4" href="{{ .url }}">{{ .label }}<span class="ms-2">{{ partial "icons/arrow-right.html" }}</span></a>
         {{ end }}
       </div>
-    </div>
+    </div> -->
+    <form name="enquiries" netlify>
+      <div class="mb-3">
+        <label for="name" class="form-label">Name:</label>
+        <input type="text" class="form-control" id="name" placeholder="Enter your name" required>
+      </div>
+    
+      <div class="mb-3">
+        <label for="email" class="form-label">Email:</label>
+        <input type="email" class="form-control" id="email" placeholder="Enter your email" required>
+      </div>
+    
+      <div class="mb-3">
+        <label for="phoneNumber" class="form-label">Phone Number:</label>
+        <input type="tel" class="form-control" id="phoneNumber" placeholder="Enter your phone number" required>
+      </div>
+    
+      <div class="mb-3">
+        <label for="enquiry" class="form-label">Enquiry/Question:</label>
+        <textarea class="form-control" id="enquiry" rows="4" placeholder="Enter your enquiry or question" required></textarea>
+      </div>
+    
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
   </div>
 </section>
