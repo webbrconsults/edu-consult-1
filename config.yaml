@@ -65,7 +65,7 @@ menus:
       weight: 5
 
   buttons:
-    - name: "Book a call"
+    - name: "Start your journey"
       url: "/#"
       weight: 4
       pre: "btn btn-primary text-light"
