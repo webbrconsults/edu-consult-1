@@ -1,7 +1,7 @@
 <footer class="shared footer bg-blue-light py-5">
   <div class="container">
     <div class="row pb-5">
-      <div class="col-12 col-xl-4 text-center text-xl-start pb-4">
+      <div class="col-12 col-xl-3 text-center text-xl-start pb-4">
         <h4 class="fs-4 fw-semibold text-uppercase text-primary">{{ .Site.Title }}</h4>
         <p class="small text-black-61">{{ .Site.Params.description }}</p>
         {{ with .Site.Params.social }}
@@ -25,7 +25,7 @@
           {{ end }}
         </ul>
       </div>
-      <div class="col-12 col-xl-3 text-center text-xl-start pb-4">
+      <div class="col-12 col-xl-2 text-center text-xl-start pb-4">
         <h5 class="fs-6 fw-semibold text-primary">Location</h5>
         <ul class="list-unstyled">
           {{ range .Site.Params.location }}
@@ -36,11 +36,18 @@
           {{ end }}
         </ul>
       </div>
-      <div class="col-12 col-xl-3 text-center text-xl-start pb-4">
+      <div class="col-12 col-xl-2 text-center text-xl-start pb-4">
         <h5 class="fs-6 fw-semibold text-primary">Contact us</h5>
         {{ range .Site.Params.contact }}
           <p class="small text-black-61 mb-1">{{ . }}</p>
         {{ end }}
+      </div>
+      <div class="col-12 col-xl-3 text-center text-xl-start pb-4">
+        <h5 class="fs-6 fw-semibold text-primary">Referrals and partnerships</h5>
+        <ul class="list-unstyled">
+          <li> <a target="_blank" style="text-decoration: none;" href="https://forms.gle/zJzE5WMbxcJBDSr19"> Student referrals </a> </li>
+          <li> <a target="_blank" style="text-decoration: none;" href="https://forms.gle/q9opfAsNbrUemCQm6"> Partnerships </a> </li>
+        </ul>
       </div>
     </div>
     <div class="row">

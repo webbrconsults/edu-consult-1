@@ -6,6 +6,16 @@ author = "CollegesKart"
 layout = "student-centre"
 +++
 
+## Student Profiling Form for Personalized Guidance
+
+We believe in providing personalized guidance to help you on your educational journey. To better understand your needs and aspirations, please fill out our Student Profiling Form:
+
+[Link to form](https://forms.gle/A8Ku5WhSUYdLidZE9)
+
+Your responses will assist us in tailoring our services to match your unique requirements. Thank you for sharing your information with us!
+
+---
+
 ## Higher education resources
 
 Guides, articles, and tools are available to assist you in navigating the application process, exploring scholarship opportunities, and more. Explore these valuable resources [here](https://www.education.gov.in/higher_education).
