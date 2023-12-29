@@ -3,7 +3,7 @@ title = "About us"
 date = "2023-12-23"
 aliases = ["about-us", "about-collegeskart", "contact"]
 author = "CollegesKart"
-type = "about"
+layout = "about"
 +++
 
 ## Mission Statement
