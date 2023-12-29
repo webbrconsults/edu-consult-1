@@ -19,13 +19,13 @@ At CollegesKart, we provide personalized one-on-one guidance and counseling serv
 
 ---
 
-## Student Loan Awareness
+## Student loan information
 
 If you're exploring options for student loans, check out this [resource](https://www.bankbazaar.com/education-loan.html). It provides valuable information and resources to help you make informed decisions about financing your education.
 
 ---
 
-## Scholarship Awareness
+## Scholarships
 
 Discover available scholarships at [this page](https://www.buddy4study.com/scholarships). Explore various scholarship opportunities that can support your academic journey and alleviate financial burdens. Don't miss out on potential funding for your education.
 
