@@ -56,6 +56,14 @@ menus:
       url: "/colleges"
       weight: 3
 
+    - name: "Student centre"
+      url: "/student-centre"
+      weight: 4
+
+    - name: "Hostels"
+      url: "/hostels"
+      weight: 5
+
   buttons:
     - name: "Book a call"
       url: "/#"
@@ -74,6 +82,14 @@ menus:
     - name: "Colleges"
       url: "/colleges"
       weight: 3
+
+    - name: "Student centre"
+      url: "/student-centre"
+      weight: 4
+
+    - name: "Hostels"
+      url: "/hostels"
+      weight: 5
 
 taxonomies:
   series: "series"
