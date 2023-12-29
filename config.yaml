@@ -27,10 +27,13 @@ params:
     faviconColor: "#000000"
 
   social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
+    linkedin: "https://www.linkedin.com/in/divyanshu-porwal-0456272a4"
+    instagram: "https://www.instagram.com/collegeskart"
+    facebook: "https://www.facebook.com/profile.php?id=61554310514853"
+    twitter: "https://twitter.com/collegeskart"
+    koo: "https://www.kooapp.com/profile/collegeskart"
+    youtube: "https://www.youtube.com/channel/UCSMR3BRHnD-zwfHUB7JgbCg"
+
 
   location:
     - "3891 Ranchview Dr. Richardson, California 62639"
