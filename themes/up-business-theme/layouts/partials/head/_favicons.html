@@ -1,8 +1,8 @@
 {{- $favicon := resources.Get "images/favicon.ico" -}}
-{{- with resources.Get "uploads/favicon.ico" -}}
+<!-- {{- with resources.Get "uploads/favicon.ico" -}}
   {{- $favicon = . -}}
 {{- end -}}
-{{- $favicon = slice $favicon | resources.Concat "favicon.ico" -}}
+{{- $favicon = slice $favicon | resources.Concat "favicon.ico" -}} -->
 
 {{- $logo := resources.Get "images/logo.png" -}}
 {{- with .Site.Params.logo -}}
