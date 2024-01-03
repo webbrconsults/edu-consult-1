@@ -29,8 +29,8 @@
         <h5 class="fs-6 fw-semibold text-primary">Location</h5>
         <ul class="list-unstyled">
           {{ range .Site.Params.location }}
-            <li class="d-flex justify-content-center justify-content-xl-start mb-2">
-              <div class="d-flex align-items-center text-primary">{{ partial "icons/geo-alt.html" }}</div>
+            <li class="d-flex mb-2">
+              <div class="d-flex text-primary mt-1">{{ partial "icons/geo-alt.html" }}</div>
               <p class="small text-black-61 m-0 ps-2">{{ . }}</p>
             </li>
           {{ end }}
