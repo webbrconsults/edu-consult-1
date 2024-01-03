@@ -5,6 +5,10 @@ content:
   title: "Navigating **futures**, Unlocking **success**"
   text: "Welcome to collegeskart – your tailored guide through the maze of educational choices. We're here to personalise your journey, from finding the right program to easing your accommodation search. Let's shape your success story, one step at a time. Welcome home!"
 
+  buttonPrimary:
+    label: "Start your journey"
+    url: "https://forms.gle/A8Ku5WhSUYdLidZE9"
+
   buttonSecondary:
     label: "Let's talk"
     url: ""
