@@ -7,15 +7,15 @@ baseURL: "https://master--shimmering-elf-307184.netlify.app"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "CollegesKart"
+title: "collegeskart"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "CollegesKart"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "collegeskart"
+  description: "collegeskart is your tailored guide through the maze of educational choices. We’re here to personalise your journey, from finding the right program to easing your accommodation search."
   images: 
     - "images/hero-image.png"
 
@@ -42,7 +42,7 @@ params:
     - "collegeskart@gmail.com"
     - "+91 8076849550"
 
-  copyright: "© 2023 CollegesKart All Rights Reserved"
+  copyright: "© 2023 collegeskart All Rights Reserved"
 
 menus:
   main:

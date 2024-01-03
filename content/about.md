@@ -2,7 +2,7 @@
 title = "About us"
 date = "2023-12-23"
 aliases = ["about-us", "about-collegeskart", "contact"]
-author = "CollegesKart"
+author = "collegeskart"
 layout = "about"
 +++
 
