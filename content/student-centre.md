@@ -8,9 +8,9 @@ layout = "student-centre"
 
 ## Student Profiling Form for Personalized Guidance
 
-We believe in providing personalized guidance to help you on your educational journey. To better understand your needs and aspirations, please fill out our Student Profiling Form:
+We believe in providing personalized guidance to help you on your educational journey. To better understand your needs and aspirations, please fill out our student profiling form:
 
-[Link to form](https://forms.gle/A8Ku5WhSUYdLidZE9)
+<a class="btn btn-primary text-light px-4 my-1" target="_blank" href="https://forms.gle/A8Ku5WhSUYdLidZE9">Fill personalization form</a>
 
 Your responses will assist us in tailoring our services to match your unique requirements. Thank you for sharing your information with us!
 
@@ -18,13 +18,16 @@ Your responses will assist us in tailoring our services to match your unique req
 
 ## Higher education resources
 
-Guides, articles, and tools are available to assist you in navigating the application process, exploring scholarship opportunities, and more. Explore these valuable resources [here](https://www.education.gov.in/higher_education).
-&nbsp;
+Guides, articles, and tools are available to assist you.
+
+<a class="btn btn-primary text-light px-4 my-1" target="_blank" href="https://www.education.gov.in/higher_education">Explore here</a>
 
 ---
 ## Guidance and support
 
 At collegeskart, we provide personalized one-on-one guidance and counseling services tailored to meet your educational needs. Our dedicated team is here to assist you throughout your academic journey, offering valuable insights and support. For quick and convenient communication, feel free to reach out to us via WhatsApp by clicking the button below. Your success is our priority, and we're here to help you achieve your educational goals with confidence.
+
+<a class="btn btn-primary text-light px-4 my-1" target="_blank" rel="external" href="https://wa.me/+918076849550">Click to chat</a>
 
 ---
 
