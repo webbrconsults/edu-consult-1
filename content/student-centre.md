@@ -1,5 +1,5 @@
 +++
-title = "Student centre"
+title = "Student Centre"
 date = "2023-12-23"
 aliases = ["student-resources", "student", "resources"]
 author = "CollegesKart"

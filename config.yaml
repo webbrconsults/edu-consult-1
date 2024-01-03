@@ -58,7 +58,7 @@ menus:
       url: "/colleges"
       weight: 3
 
-    - name: "Student centre"
+    - name: "Student Centre"
       url: "/student-centre"
       weight: 4
 
@@ -85,7 +85,7 @@ menus:
       url: "/colleges"
       weight: 3
 
-    - name: "Student centre"
+    - name: "Student Centre"
       url: "/student-centre"
       weight: 4
 
