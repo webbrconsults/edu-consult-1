@@ -58,3 +58,13 @@ $light: #FFFFFF;
 // Utilities
 @import "../../bootstrap/scss/utilities/api";
 // scss-docs-end import-stack
+
+@font-face {
+  font-family: "Cooper Black";
+  src: url("/fonts/cooper-black.ttf");
+}
+
+.logo-color {
+  color: #ffc93c !important;
+  font-family: "Cooper Black", #{$font-family-base};
+}
