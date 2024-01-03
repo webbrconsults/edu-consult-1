@@ -68,7 +68,7 @@ menus:
 
   buttons:
     - name: "Start your journey"
-      url: "/#"
+      url: "https://forms.gle/A8Ku5WhSUYdLidZE9"
       weight: 4
       pre: "btn btn-primary text-light"
 
