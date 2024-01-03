@@ -1,7 +1,7 @@
 enabled: true
 id: "colleges"
 
-Title: "Colleges list"
+Title: "Colleges List"
 
 content:
   collegesList:
