@@ -12,27 +12,29 @@
             {{ end }}
           </div>
         </div>
-        <table class="table table-bordered">
-          <thead class="thead-dark">
-            <tr>
-              <th>College Name</th>
-              <th>Website Link</th>
-              <th>City</th>
-              <th>State</th>
-            </tr>
-          </thead>
-          <tbody>
-            {{ $colleges := site.Data.colleges.content.collegesList }}
-            {{ range $colleges }}
+        <div class="table-responsive">
+          <table class="table table-bordered">
+            <thead class="thead-dark">
               <tr>
-                <td>{{ .name }}</td>
-                <td><a href="{{ .website }}" target="_blank">Link</a></td>
-                <td>{{ .city }}</td>
-                <td>{{ .state }}</td>
+                <th>College Name</th>
+                <th>Website Link</th>
+                <th>City</th>
+                <th>State</th>
               </tr>
-            {{ end }}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {{ $colleges := site.Data.colleges.content.collegesList }}
+              {{ range $colleges }}
+                <tr>
+                  <td>{{ .name }}</td>
+                  <td><a href="{{ .website }}" target="_blank">Link</a></td>
+                  <td>{{ .city }}</td>
+                  <td>{{ .state }}</td>
+                </tr>
+              {{ end }}
+            </tbody>
+          </table>
+        </div>
       </div>
     </section>
   {{ end }}
