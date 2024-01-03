@@ -45,5 +45,5 @@ Discover available scholarships at [this page](https://www.buddy4study.com/schol
 
 * Call: +91-8076849550
 * WhatsApp: +91-8076849550
-* Email: collegescart@gmail.com
+* Email: collegeskart@gmail.com
 * Address: Greater Noida, UP, India
