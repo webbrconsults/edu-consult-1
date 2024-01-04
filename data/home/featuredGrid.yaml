@@ -1,0 +1,38 @@
+enabled: true
+id: "featuredGrid"
+
+content:
+  title: "Student Centre"
+  # text: "Discover Stories of Triumph: Real tales of success, heartfelt testimonials, and essential resources await. Dive into inspiration, guidance, and invaluable insights to fuel your educational journey. Explore success, find your path!"
+  # image: "images/testimonials-awards.png"
+
+  # featured:
+  #   image: "images/testimonials-awards.png"
+  #   text: "collegeskart has been my guiding light in the overwhelming world of higher education. The personalised guidance and resources helped me find the perfect program and secure scholarships. Grateful for their unwavering support!"
+  #   client: "Esha Gupta"
+
+  list:
+    - title: "Colleges"
+      text: "Curated list of colleges"
+      image: "https://ik.imagekit.io/webbr/collegeskart/campus.jpg?tr=h-300"
+      link: "/colleges"
+
+    - title: "Higher Education Resources"
+      text: "Guides, articles, and tools are available to assist you."
+      image: "https://ik.imagekit.io/webbr/collegeskart/hats.jpg?tr=h-300"
+      link: "https://www.education.gov.in/higher_education"
+
+    - title: "Student Loan Information"
+      text: "Valuable information and resources to help you make informed decisions about financing your education."
+      image: "https://ik.imagekit.io/webbr/collegeskart/loan.jpg?tr=h-300"
+      link: "https://www.bankbazaar.com/education-loan.html"
+
+    - title: "Scholarships"
+      text: "Explore various scholarship opportunities that can support your academic journey and alleviate financial burdens. Don’t miss out on potential funding for your education."
+      image: "https://ik.imagekit.io/webbr/collegeskart/scholarship.png?tr=h-300"
+      link: "https://www.buddy4study.com/scholarships"
+
+    - title: "Hostels"
+      text: "Get ready for comprehensive 360-degree support, ensuring students have every corner covered in their educational journey."
+      image: "https://ik.imagekit.io/webbr/collegeskart/hostel.jpg?tr=h-300"
+      link: "/hostels"
