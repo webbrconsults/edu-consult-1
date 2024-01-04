@@ -1,10 +1,10 @@
 <section class="section featuredGrid py-5">
   <div class="container">
-    <div class="row justify-content-center pb-5">
+    <div class="row justify-content-center">
       {{ with .content.title }}
         <h3 class="fs-1 fw-bold text-center text-primary pb-3">{{ . }}</h3>
       {{ end }}
-      <div class="row g-4 pb-5">
+      <div class="row g-4">
         {{ range .content.list }}
         <div class="col-12 col-md-6 col-lg-4">
           <a target="_blank" class="card text-decoration-none h-100" href="{{ .link }}">
