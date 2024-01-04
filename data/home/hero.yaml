@@ -2,7 +2,7 @@ enabled: true
 id: "hero"
 
 content:
-  title: "Navigating **futures**, Unlocking **success**"
+  title: "Navigating **Futures**, Unlocking **Success**"
   text: "Welcome to collegeskart – your tailored guide through the maze of educational choices. We're here to personalise your journey, from finding the right program to easing your accommodation search. Let's shape your success story, one step at a time. Welcome home!"
 
   buttonPrimary:

@@ -23,7 +23,7 @@ Guides, articles, and tools are available to assist you.
 <a class="btn btn-primary text-light px-4 my-1" target="_blank" href="https://www.education.gov.in/higher_education">Explore here</a>
 
 ---
-## Guidance and support
+## Guidance and Support
 
 At collegeskart, we provide personalized one-on-one guidance and counseling services tailored to meet your educational needs. Our dedicated team is here to assist you throughout your academic journey, offering valuable insights and support. For quick and convenient communication, feel free to reach out to us via WhatsApp by clicking the button below. Your success is our priority, and we're here to help you achieve your educational goals with confidence.
 
